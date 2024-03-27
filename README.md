@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladislav</h1>
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning .NET
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,4 +13,4 @@
 
 ⚡LeetCode rank
 
-[![Tachka LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Tachka)](https://github.com/Tachka/leetcode-stats)
+[![Tachka LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Tachka&theme=dark)](https://github.com/Tachka/leetcode-stats)
